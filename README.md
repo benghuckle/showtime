@@ -33,6 +33,17 @@ You will need to disable any steps you do not have installed (E.g GeekTool or Gr
 
 ![](https://dl.dropboxusercontent.com/u/638291/2013-12-29_17.47.15.png)
 
+##Running The Scripts
+Open `Terminal`. Type the following command, replacing `PathToFile` with the path to the script. E.g if the script is stored in the `Documents` folder, the path would be `~/Documents/showtime-start.workflow`.
+
+` automator ~/PathToFile/showtime-start.workflow`
+
+When you are done, call the following command.
+
+` automator ~/PathToFile/showtime-start.workflow`
+
+Alternatively, you can run the scripts from within Automator. 
+
 ##Credits
 [Brett Terpstra's Scripting podcast and screencast prep on a Mac](http://brettterpstra.com/2013/12/24/scripting-podcast-and-screencast-prep-on-a-mac/)
 
